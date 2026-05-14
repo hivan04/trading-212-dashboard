@@ -24,8 +24,24 @@ In terms of metrics, you can see your:
 - Total Return (in absolute value)
 - Number of Active Open Positions
 
+[!image](/Users/ivanhung/Documents/GitHub/trading-212-dashboard/images/1.png)
+
 ## Performance Page 
 
 Here, you can have a further insight into financial metrics, such as your portoflio's Sharpe Ratio, Maximum Drawdown, Compounded Annual Growth Rate (CAGR), Beta and Volatility.
 
-It also pulls assumed data from yfinance to estimate the portfolo's value and drawdown 2§
+It also pulls data from yfinance to estimate the portfolo's value and drawdown to provide a further visual insight.
+
+[!image](/Users/ivanhung/Documents/GitHub/trading-212-dashboard/images/2.png)
+
+## Holdings 
+
+This page shows all active holdnigs of the equities that are currentky being invested in and providing further information such as trading volume, current price, PnL and PnL as a %.
+
+[!image](/Users/ivanhung/Documents/GitHub/trading-212-dashboard/images/3.png)
+
+## Dividends
+
+This page shows the accumualted dividends overtime and the company's which do the dividend payout. Here, it provides further insight to the amount of dividend paid per share and the date the dividend was recieved.
+
+[!image](/Users/ivanhung/Documents/GitHub/trading-212-dashboard/images/4.png)
